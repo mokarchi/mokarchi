@@ -16,17 +16,17 @@
 <div>
   <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-- 🌐 &nbsp;
+&nbsp;
   <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-- 🛢 &nbsp;
+&nbsp;
   <img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-- ⚙️ &nbsp;
+&nbsp;
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40" />
 
