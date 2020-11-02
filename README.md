@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! I'm Amir Mokarchi 👋 </h1>
 <h3 align="center">🚀 .NET developer 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
