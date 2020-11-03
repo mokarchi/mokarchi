@@ -33,9 +33,11 @@
 </div> 
 <a href="https://github.com/mokarchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokarchi" />
+</a>
+<br/>
+<a href="https://github.com/mokarchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokarchi" />
 </a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
