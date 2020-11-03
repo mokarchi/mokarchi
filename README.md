@@ -36,7 +36,7 @@
 </a>
 <br/>
 <a href="https://github.com/mokarchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokarchi" />
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokarchi" />
 </a>
 <br/>
 
