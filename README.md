@@ -4,10 +4,9 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions. Ask me about Clean Architecture, MicroServices, and .NET Core
   - 🎓 &nbsp; I’m looking to collaborate on: .NET projects.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 💼 &nbsp; A .NET Backend Developer / Software Architect • Microservices Enthusiast.
   - ✍️ &nbsp; I really enjoy attending tech related events.  
 </div> 
 </div>
