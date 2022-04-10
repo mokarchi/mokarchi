@@ -28,4 +28,11 @@
 <a href="mailto:mokarchi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mokarchi-blueviolet"></a>
 <a href="https://twitter.com/Mokarchi"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Amir-informational"></a>
 </p>
-![Metrics](/github-metrics.svg)
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+    </td>
+  </tr>
+</table>
