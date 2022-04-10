@@ -28,3 +28,4 @@
 <a href="mailto:mokarchi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mokarchi-blueviolet"></a>
 <a href="https://twitter.com/Mokarchi"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Amir-informational"></a>
 </p>
+![Metrics](/github-metrics.svg)
