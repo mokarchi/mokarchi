@@ -36,12 +36,9 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <td  align="center">
-        <details open><summary>By contribution types</summary><img alt="" width="400" src="/metrics.plugin.contributors.categories.svg" alt=""></img></details>
-        <details><summary>By number of contributions</summary><img alt="" width="400" src="/metrics.plugin.contributors.contributions.svg" alt=""></img></details>
+<td  align="center">
+        <details open><summary>By contribution types</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg" alt=""></img></details>
+        <details><summary>By number of contributions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.contributions.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
-      </td>
-    </td>
-  </tr>
+      </td></tr>
 </table>
