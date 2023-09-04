@@ -18,6 +18,9 @@
 </a>
 <br/>
 
+[![Alirezanet's GitHub stats](https://github-readme-stats-mokarchi.vercel.app/api?username=mokarchi&show_icons=true&theme=tokyonight)
+](#)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
