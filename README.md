@@ -16,10 +16,8 @@
 <a href="https://github.com/mokarchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokarchi&show_icons=true&theme=tokyonight" />
 </a>
-[![Amir's GitHub stats](https://github-readme-stats-mokarchi.vercel.app/api?username=mokarchi&show_icons=true&theme=tokyonight)
-](#)
 <br/>
-
+[![Amir's GitHub stats](https://github-readme-stats-mokarchi.vercel.app/api?username=mokarchi&show_icons=true&theme=tokyonight)](#)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
