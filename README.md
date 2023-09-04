@@ -15,7 +15,6 @@
 </div> 
 <a href="https://github.com/mokarchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokarchi" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokarchi&layout=compact" />
 </a>
 <br/>
 
