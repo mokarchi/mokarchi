@@ -1,32 +1,79 @@
-<h1 align="center">Hey there! I'm Amir Mokarchi 👋 </h1>
-<h3 align="center">🚀 .NET developer 🚀</h3>
-<div>
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+<h2 align="center">Hey there! I'm Amir Mokarchi 👋</h2>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions. Ask me about Clean Architecture, MicroServices, and .NET Core
-  - 🎓 &nbsp; I’m looking to collaborate on: .NET projects.
-  - 💼 &nbsp; A .NET Backend Developer / Software Architect • Microservices Enthusiast.
-  - ✍️ &nbsp; I really enjoy attending tech related events.  
-</div> 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mokarchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mokarchi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mokarchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mokarchi&no-frame=true&no-bg=true&theme=dracula" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokarchi&theme=redical&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
-<!--
-</div> 
-<a href="https://github.com/mokarchi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mokarchi&show_icons=true&theme=tokyonight" />
-</a>
-<br/>
--->
-# 📊 GitHub Stats:
-![](https://github-readme-stats-mokarchi.vercel.app/api?username=mokarchi&show_icons=true&theme=tokyonight)<br/>
+###
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/40722257?v=4"  />
 
-<p>
-<a href="https://www.mokarchi.ir/"><img alt="Website" src="https://img.shields.io/badge/website-www.mokarchi.ir-lightgrey"></a>
-<a href="https://www.linkedin.com/in/amir-mokarchi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amir mokarchi-blue"></a>
-<a href="https://www.instagram.com/amir.mokarchi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Amir-ff69b4"></a>
-<a href="mailto:mokarchi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mokarchi-blueviolet"></a>
-<a href="https://twitter.com/Mokarchi"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Amir-informational"></a>
-</p>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="mokarchi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/amir-mokarchi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@mokarchi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://www.instagram.com/amir.mokarchi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/Mokarchi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mokarchi/mokarchi/output/snake.svg" alt="Snake animation" />
+
+###
