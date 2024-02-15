@@ -9,9 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mokarchi&theme=2077)<br/>
 
 ## 🏆GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mokarchi&theme=" alt="trophy graph"  />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=mokarchi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻Tech Stack
