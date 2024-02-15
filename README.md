@@ -1,4 +1,7 @@
-<h2 align="center">Hey there! I'm Amir Mokarchi 👋</h2>
+# 💫About Me :
+👋 Hey there! I'm Amir Mokarchi. 💻<br/>
+
+When I'm not busy coding, I enjoy keeping up with the latest tech trends, attending tech conferences, and collaborating with other developers on open-source projects. 🚀
 
 # 📊GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=mokarchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)<br/>
