@@ -4,7 +4,8 @@
 When I'm not busy coding, I enjoy keeping up with the latest tech trends, attending tech conferences, and collaborating with other developers on open-source projects. 🚀
 
 # 📊GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=mokarchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=mokarchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)<br/>-->
+![](https://github-readme-stats-mokarchis-projects.vercel.app/api/?username=mokarchi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&hide_title=false&hide_rank=false&disable_animations=false&locale=en)<br/>
 ![](https://streak-stats.demolab.com?user=mokarchi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=mokarchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mokarchi&theme=2077&card_width=320)<br/>
