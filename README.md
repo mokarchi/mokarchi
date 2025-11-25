@@ -3,6 +3,18 @@
 
 When I'm not busy coding, I enjoy keeping up with the latest tech trends, attending tech conferences, and collaborating with other developers on open-source projects. 🚀
 
+# 🥷Contributions
+- https://github.com/khellang/Scrutor
+- https://github.com/MapsterMapper/Mapster.Fluent
+- https://github.com/JasperFx/marten
+- https://github.com/domaindrivendev/Swashbuckle.AspNetCore
+- https://github.com/meziantou/Meziantou.Analyzer
+- https://github.com/coverlet-coverage/coverlet
+- https://github.com/xunit/visualstudio.xunit
+- https://github.com/open-telemetry/opentelemetry-dotnet
+- https://github.com/EasyNetQ/EasyNetQ
+- https://github.com/dotnetcore/EasyCaching
+
 # 📊GitHub Stats 
 <!--![](https://github-readme-stats.vercel.app/api?username=mokarchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)<br/>-->
 ![](https://github-readme-stats-mokarchis-projects.vercel.app/api/?username=mokarchi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&hide_title=false&hide_rank=true&disable_animations=false&locale=en)<br/>
