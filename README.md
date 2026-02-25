@@ -4,6 +4,7 @@
 When I'm not busy coding, I enjoy keeping up with the latest tech trends, attending tech conferences, and collaborating with other developers on open-source projects. 🚀
 
 # 🥷Contributions
+- https://github.com/openai/openai-dotnet
 - https://github.com/khellang/Scrutor
 - https://github.com/MapsterMapper/Mapster.Fluent
 - https://github.com/JasperFx/marten
